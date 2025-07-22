@@ -13,6 +13,9 @@ The Predictive Phenomics Initiative (PPI) is an internal LDRD investment at Pac
 
 <img width="1200" height="841" alt="image" src="https://github.com/user-attachments/assets/32822813-8b2e-456a-85f7-949351fbd3d9" />
 
+### Citation Policy
+
+In efforts to enable discovery, reproducibility, and reuse of PPI-funded project software/source code in accordance with best practices (e.g., FORCE11 Software Citation Principles), we ask that all reuse of project source code developer materials acknowledge primary source code reference citations and corresponding journal articles where applicable.
 
 ### Funding Acknowledgments
 
